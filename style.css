@@ -208,7 +208,7 @@ nav ul li:last-child a:hover {
 }
 .projects-container ul {
     display: grid;
-    grid-template-columns: repeat(2, minmax(180px, 1fr));
+    grid-template-columns: repeat(3, minmax(180px, 1fr));
     gap: 18px;
     font-size: 1.1rem;
     color: #eee;
